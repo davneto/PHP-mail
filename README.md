@@ -1,2 +1,2 @@
 # PHP-mail
-Barebone script for email sending through SMTP with PHP. Currently customized to work with Gmail's SMTP.
+Barebone PHP script for email sending using SMTP. Currently customized to work with Gmail's SMTP.
